@@ -54,7 +54,7 @@ export default function TentangKamiPage() {
           <div className="lg:col-span-5 hidden lg:block">
             <div className="bg-surface-container-high rounded-xl aspect-[4/5] overflow-hidden relative group">
               <Image
-                src="/images/vase.png"
+                src="https://res.cloudinary.com/drxqokest/image/upload/v1775742411/vase_nsndsb.png"
                 alt="Bejana Vessel Community"
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-700"
@@ -90,7 +90,7 @@ export default function TentangKamiPage() {
             {/* Photo */}
             <div className="bg-surface-container-highest rounded-xl overflow-hidden min-h-[400px] relative">
               <Image
-                src="/images/tembikar.png"
+                src="https://res.cloudinary.com/drxqokest/image/upload/v1775742658/tembikar_lscsxn.png"
                 alt="Vessel Community kegiatan"
                 fill
                 className="object-cover"
@@ -137,7 +137,7 @@ export default function TentangKamiPage() {
           <div className="w-full md:w-1/2 relative">
             <div className="rounded-xl overflow-hidden aspect-[4/3] relative editorial-shadow">
               <Image
-                src="/images/ibadah/29-03-2026_3.png"
+                src="https://res.cloudinary.com/drxqokest/image/upload/v1775743501/29-03-2026_3_qju2se.png"
                 alt="Vessel Community ibadah bersama"
                 fill
                 className="object-cover"

@@ -37,7 +37,7 @@ export default function PelayananPage() {
       <section className="max-w-screen-2xl mx-auto px-6 md:px-12 mb-20">
         <div className="rounded-xl overflow-hidden relative h-[400px] md:h-[500px]">
           <Image
-            src="/images/ibadah/29-03-2026_1.png"
+            src="https://res.cloudinary.com/drxqokest/image/upload/v1775743502/29-03-2026_1_xp1ufm.png"
             alt="Tim pelayanan Vessel Community"
             fill
             className="object-cover"

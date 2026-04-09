@@ -30,7 +30,7 @@ export default function BeritaPage() {
             {/* Photo */}
             <div className="relative aspect-[16/9] w-full">
               <Image
-                src="/images/berita/07-04-2026.jpg"
+                src="https://res.cloudinary.com/drxqokest/image/upload/v1775743586/07-04-2026_rorkb6.webp"
                 alt="Selamat Jalan, Natasha Carissa Vania"
                 fill
                 className="object-cover"

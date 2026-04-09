@@ -47,7 +47,7 @@ export default function HomePage() {
           <div className="relative hidden lg:block">
             <div className="aspect-[4/5] rounded-[4rem] overflow-hidden editorial-shadow border-8 border-white/5 relative">
               <Image
-                src="/images/ibadah/29-03-2026_1.png"
+                src="https://res.cloudinary.com/drxqokest/image/upload/v1775743502/29-03-2026_1_xp1ufm.png"
                 alt="Ibadah Vessel Community"
                 fill
                 className="object-cover"
@@ -147,7 +147,7 @@ export default function HomePage() {
           {/* Large left card */}
           <div className="md:col-span-8 group relative rounded-xl overflow-hidden min-h-[400px]">
             <Image
-              src="/images/ibadah/29-03-2026_2.png"
+              src="https://res.cloudinary.com/drxqokest/image/upload/v1775743501/29-03-2026_2_avy5ml.png"
               alt="Worship as Lifestyle"
               fill
               className="object-cover transition-transform duration-700 group-hover:scale-105"
@@ -197,7 +197,7 @@ export default function HomePage() {
 
             <div className="flex-1 rounded-xl overflow-hidden relative group min-h-[200px]">
               <Image
-                src="/images/paskah/05-04-2026_1.png"
+                src="https://res.cloudinary.com/drxqokest/image/upload/v1775743559/05-04-2026_1_d37cjo.png"
                 alt="Pelayanan Vessel Community"
                 fill
                 className="object-cover"

@@ -44,4 +44,6 @@ next-env.d.ts
 /stitch/
 
 # docs (internal planning, not needed in production)
-/docs/
+/docs/superpowers
+CLAUDE.md
+AGENTS.md

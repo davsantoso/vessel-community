@@ -121,7 +121,7 @@ export default function IbadahPage() {
           {/* Side photo */}
           <div className="md:col-span-4 rounded-xl overflow-hidden relative min-h-[300px]">
             <Image
-              src="/images/ibadah/29-03-2026_1.png"
+              src="https://res.cloudinary.com/drxqokest/image/upload/v1775743502/29-03-2026_1_xp1ufm.png"
               alt="Suasana ibadah Vessel Community"
               fill
               className="object-cover"
@@ -139,19 +139,19 @@ export default function IbadahPage() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           {[
             {
-              src: "/images/ibadah/29-03-2026_2.png",
+              src: "https://res.cloudinary.com/drxqokest/image/upload/v1775743501/29-03-2026_2_avy5ml.png",
               alt: "Ibadah 29 Mar 2026",
             },
             {
-              src: "/images/ibadah/29-03-2026_3.png",
+              src: "https://res.cloudinary.com/drxqokest/image/upload/v1775743501/29-03-2026_3_qju2se.png",
               alt: "Ibadah 29 Mar 2026",
             },
             {
-              src: "/images/ibadah/19-01-2026_1.png",
+              src: "https://res.cloudinary.com/drxqokest/image/upload/v1775743501/19-01-2026_1_tn4dc5.png",
               alt: "Ibadah 19 Jan 2026",
             },
             {
-              src: "/images/ibadah/19-01-2026_2.png",
+              src: "https://res.cloudinary.com/drxqokest/image/upload/v1775743502/19-01-2026_2_bdfzut.png",
               alt: "Ibadah 19 Jan 2026",
             },
           ].map((img) => (
