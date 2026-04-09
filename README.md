@@ -13,28 +13,24 @@ Website informasi komunitas pemuda **Vessel Community** — GSRI Jemaat Bekasi.
 
 ## Halaman
 
-| Route | Halaman |
-|---|---|
-| `/` | Home |
-| `/tentang-kami` | Tentang Kami |
-| `/ibadah` | Jadwal Ibadah |
-| `/komunitas` | Komunitas |
-| `/pelayanan` | Pelayanan |
-| `/galeri` | Galeri |
-| `/berita` | Berita |
-| `/event` | Event & Kegiatan |
-| `/kontak` | Kontak |
+| Route           | Halaman          |
+| --------------- | ---------------- |
+| `/`             | Home             |
+| `/tentang-kami` | Tentang Kami     |
+| `/ibadah`       | Jadwal Ibadah    |
+| `/komunitas`    | Komunitas        |
+| `/pelayanan`    | Pelayanan        |
+| `/galeri`       | Galeri           |
+| `/berita`       | Berita           |
+| `/event`        | Event & Kegiatan |
+| `/kontak`       | Kontak           |
 
 ## Struktur Folder
 
 ```
 app/                  # Halaman (App Router)
 components/           # Navbar, Footer
-public/images/        # Foto komunitas
-  ibadah/
-  paskah/
-  badminton/
-  berita/
+public/               # Asset
 ```
 
 ## Development
