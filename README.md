@@ -35,8 +35,6 @@ public/images/        # Foto komunitas
   paskah/
   badminton/
   berita/
-docs/superpowers/     # Spesifikasi & rencana implementasi
-stitch/               # Referensi desain dari Stitch AI
 ```
 
 ## Development
@@ -52,4 +50,4 @@ Buka [http://localhost:3000](http://localhost:3000).
 
 - Semua konten bersifat statis (hardcoded), tidak menggunakan CMS.
 - Link WhatsApp masih placeholder `href="#"` — ganti dengan link grup WhatsApp komunitas.
-- Foto disimpan di `public/images/`.
+- Foto disimpan di `Cloudinary.com`.
