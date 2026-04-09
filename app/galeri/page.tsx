@@ -44,8 +44,8 @@ const groups = [
     title: 'Momen Bersama',
     date: '2026',
     photos: [
-      { src: '/images/28-03-2026.png', alt: 'Kegiatan 28 Mar 2026' },
-      { src: '/images/14-03-2026.png', alt: 'Kegiatan 14 Mar 2026' },
+      { src: '/images/ibadah/29-03-2026_3.png', alt: 'Kegiatan 29 Mar 2026' },
+      { src: '/images/ibadah/19-01-2026_2.png', alt: 'Kegiatan 19 Januari 2026' },
     ],
   },
 ]
