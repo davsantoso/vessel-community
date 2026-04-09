@@ -85,7 +85,7 @@ export default function KontakPage() {
           <div className="lg:col-span-7 space-y-8">
             <div className="rounded-xl overflow-hidden editorial-shadow aspect-video">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.0!2d107.00!3d-6.24!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sBekasi+Grand+Center+Blok+F1%2C+Jl.+Cut+Meutiah%2C+Margahayu%2C+Bekasi+Timur!5e0!3m2!1sid!2sid!4v1"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2831.579122362056!2d107.01575294554617!3d-6.251635472468645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698e8771f08899%3A0x4199faabcd0398aa!2sGSRI%20Jemaat%20Bekasi!5e0!3m2!1sid!2sid!4v1775700382408!5m2!1sid!2sid"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
@@ -103,7 +103,7 @@ export default function KontakPage() {
                 Bekasi, West Java 17113
               </p>
               <a
-                href="https://maps.google.com/?q=Bekasi+Grand+Center+Blok+F1+Jl+Cut+Meutiah+Margahayu+Bekasi+Timur"
+                href="https://maps.google.com/?q=GSRI+Jemaat+Bekasi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-primary font-label text-sm hover:text-primary-container transition-colors"

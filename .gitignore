@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# stitch design files (reference only, not needed in production)
+/stitch/
+
+# docs (internal planning, not needed in production)
+/docs/

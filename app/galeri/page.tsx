@@ -10,17 +10,11 @@ export const metadata: Metadata = {
 const groups = [
   {
     title: 'Ibadah',
-    date: 'Maret 2026',
+    date: '2026',
     photos: [
       { src: '/images/ibadah/29-03-2026_1.png', alt: 'Ibadah 29 Mar 2026' },
       { src: '/images/ibadah/29-03-2026_2.png', alt: 'Ibadah 29 Mar 2026' },
       { src: '/images/ibadah/29-03-2026_3.png', alt: 'Ibadah 29 Mar 2026' },
-    ],
-  },
-  {
-    title: 'Ibadah',
-    date: 'Januari 2026',
-    photos: [
       { src: '/images/ibadah/19-01-2026_1.png', alt: 'Ibadah 19 Jan 2026' },
       { src: '/images/ibadah/19-01-2026_2.png', alt: 'Ibadah 19 Jan 2026' },
     ],

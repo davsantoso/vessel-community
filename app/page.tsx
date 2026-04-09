@@ -12,7 +12,7 @@ export default function HomePage() {
   return (
     <>
       {/* ── Hero ── */}
-      <section className="hero-gradient min-h-screen flex items-center pt-24 px-6 md:px-12 relative overflow-hidden">
+      <section className="hero-gradient min-h-screen flex items-center pt-24 pb-24 px-6 md:px-12 relative">
         <div className="max-w-screen-2xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-16 items-center w-full">
           {/* Left: text */}
           <div className="z-10">

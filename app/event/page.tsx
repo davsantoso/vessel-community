@@ -8,6 +8,15 @@ export const metadata: Metadata = {
 
 const events = [
   {
+    title: 'Ibadah Sabtu',
+    date: 'Setiap Sabtu',
+    label: 'Ibadah Rutin',
+    desc: 'Ibadah mingguan Vessel Community setiap Sabtu sore pukul 17:00 WIB di GSRI Jemaat Bekasi. Terbuka untuk semua.',
+    image: '/images/ibadah/29-03-2026_1.png',
+    tag: 'Rutin',
+    tagColor: 'bg-primary-container text-on-primary-container',
+  },
+  {
     title: 'Paskah 2026',
     date: '05 April 2026',
     label: 'Kegiatan Rohani',
@@ -24,15 +33,6 @@ const events = [
     image: '/images/badminton/04-04-2026_1.png',
     tag: 'Sudah Berlalu',
     tagColor: 'bg-surface-container-highest text-on-surface-variant',
-  },
-  {
-    title: 'Ibadah Sabtu',
-    date: 'Setiap Sabtu',
-    label: 'Ibadah Rutin',
-    desc: 'Ibadah mingguan Vessel Community setiap Sabtu sore pukul 17:00 WIB di GSRI Jemaat Bekasi. Terbuka untuk semua.',
-    image: '/images/ibadah/29-03-2026_1.png',
-    tag: 'Rutin',
-    tagColor: 'bg-primary-container text-on-primary-container',
   },
 ]
 

@@ -36,7 +36,7 @@ export default function TentangKamiPage() {
     <div className="pt-32">
       {/* Hero */}
       <section className="max-w-screen-2xl mx-auto px-6 md:px-12 pb-24">
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-end">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
           <div className="lg:col-span-7">
             <span className="text-primary font-body uppercase tracking-[0.2em] text-xs font-semibold mb-6 block">
               Our Philosophy
@@ -54,8 +54,8 @@ export default function TentangKamiPage() {
           <div className="lg:col-span-5 hidden lg:block">
             <div className="bg-surface-container-high rounded-xl aspect-[4/5] overflow-hidden relative group">
               <Image
-                src="/images/28-03-2026.png"
-                alt="Vessel Community gathering"
+                src="/images/vase.png"
+                alt="Bejana Vessel Community"
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-700"
                 sizes="40vw"
@@ -90,7 +90,7 @@ export default function TentangKamiPage() {
             {/* Photo */}
             <div className="bg-surface-container-highest rounded-xl overflow-hidden min-h-[400px] relative">
               <Image
-                src="/images/14-03-2026.png"
+                src="/images/tembikar.png"
                 alt="Vessel Community kegiatan"
                 fill
                 className="object-cover"
@@ -145,7 +145,7 @@ export default function TentangKamiPage() {
               />
             </div>
             <div className="absolute -bottom-8 -right-8 bg-primary p-6 rounded-xl hidden xl:block">
-              <p className="text-surface font-headline italic text-xl">Est. 2024</p>
+              <p className="text-surface font-headline italic text-xl">Est. 2025</p>
             </div>
           </div>
           <div className="w-full md:w-1/2">
@@ -188,7 +188,7 @@ export default function TentangKamiPage() {
               <div className="font-body text-xs uppercase tracking-widest opacity-80">Jadwal Ibadah</div>
             </div>
             <div className="col-span-2 md:col-span-1">
-              <div className="font-headline italic text-5xl mb-2">2024</div>
+              <div className="font-headline italic text-5xl mb-2">2025</div>
               <div className="font-body text-xs uppercase tracking-widest opacity-80">Berdiri Sejak</div>
             </div>
           </div>
