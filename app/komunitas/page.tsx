@@ -24,6 +24,14 @@ const activities = [
     color: 'bg-secondary',
     textColor: 'text-surface',
   },
+  {
+    title: 'Vessel Camp',
+    date: '26–27 September 2025',
+    desc: 'Kegiatan outing pemuda dan remaja di Villa Kembali Ke Akar, Cilember, Cisarua, Bogor. Mempererat kebersamaan antar generasi melalui pengalaman bersama di alam.',
+    images: ['https://res.cloudinary.com/drxqokest/image/upload/v1775832793/27-09-2025_3_jmab2u.jpg', 'https://res.cloudinary.com/drxqokest/image/upload/v1775832793/27-09-2025_6_mcsrth.jpg'],
+    color: 'bg-primary-container',
+    textColor: 'text-on-primary-container',
+  },
 ]
 
 export default function KomunitasPage() {

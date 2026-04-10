@@ -41,6 +41,22 @@ const groups = [
     ],
   },
   {
+    title: 'Vessel Camp',
+    date: '26–27 September 2025',
+    photos: [
+      { src: 'https://res.cloudinary.com/drxqokest/image/upload/v1775832793/27-09-2025_1_bv3yzg.jpg', alt: 'Vessel Camp Sep 2025' },
+      { src: 'https://res.cloudinary.com/drxqokest/image/upload/v1775832792/27-09-2025_2_jimyee.jpg', alt: 'Vessel Camp Sep 2025' },
+      { src: 'https://res.cloudinary.com/drxqokest/image/upload/v1775832793/27-09-2025_3_jmab2u.jpg', alt: 'Vessel Camp Sep 2025' },
+      { src: 'https://res.cloudinary.com/drxqokest/image/upload/v1775832793/27-09-2025_4_md2u9h.jpg', alt: 'Vessel Camp Sep 2025' },
+      { src: 'https://res.cloudinary.com/drxqokest/image/upload/v1775832794/27-09-2025_5_bracc6.jpg', alt: 'Vessel Camp Sep 2025' },
+      { src: 'https://res.cloudinary.com/drxqokest/image/upload/v1775832793/27-09-2025_6_mcsrth.jpg', alt: 'Vessel Camp Sep 2025' },
+      { src: 'https://res.cloudinary.com/drxqokest/image/upload/v1775832794/27-09-2025_7_pjixp3.jpg', alt: 'Vessel Camp Sep 2025' },
+      { src: 'https://res.cloudinary.com/drxqokest/image/upload/v1775832794/27-09-2025_8_xfqvoe.jpg', alt: 'Vessel Camp Sep 2025' },
+      { src: 'https://res.cloudinary.com/drxqokest/image/upload/v1775832795/27-09-2025_9_hvr82v.jpg', alt: 'Vessel Camp Sep 2025' },
+      { src: 'https://res.cloudinary.com/drxqokest/image/upload/v1775832794/27-09-2025_10_d1gq9a.jpg', alt: 'Vessel Camp Sep 2025' },
+    ],
+  },
+  {
     title: 'Momen Bersama',
     date: '2026',
     photos: [
