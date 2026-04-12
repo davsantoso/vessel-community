@@ -10,10 +10,7 @@ export const metadata: Metadata = {
 const teams = [
   { icon: 'music_note', title: 'Tim Worship', desc: 'Memimpin ibadah melalui musik dan nyanyian. Menciptakan suasana yang menyambut hadirat Tuhan.', spots: 'Terbuka untuk vocalist, musician' },
   { icon: 'videocam', title: 'Tim Multimedia', desc: 'Mengelola proyektor, livestream, dan dokumentasi kegiatan komunitas.', spots: 'Terbuka untuk operator teknis' },
-  { icon: 'star', title: 'Tim Dekorasi', desc: 'Menciptakan lingkungan ibadah yang indah dan bermakna melalui seni dekorasi.', spots: 'Terbuka untuk semua' },
   { icon: 'restaurant', title: 'Tim Konsumsi', desc: 'Menyiapkan kebutuhan makan dan minum untuk setiap kegiatan komunitas.', spots: 'Terbuka untuk semua' },
-  { icon: 'handshake', title: 'Tim Penyambut', desc: 'Menyambut setiap orang yang datang dengan hangat dan penuh kasih.', spots: 'Terbuka untuk semua' },
-  { icon: 'volunteer_activism', title: 'Tim Doa', desc: 'Mendoakan anggota komunitas dan mendukung setiap aspek kehidupan jemaat.', spots: 'Terbuka untuk semua' },
 ]
 
 export default function PelayananPage() {
@@ -83,7 +80,7 @@ export default function PelayananPage() {
             Tidak perlu pengalaman — hanya perlu hati yang mau melayani.
           </p>
           <a
-            href="#"
+            href="https://wa.me/6282335642114?text=Halo%20Vessel%20Community%2C%20saya%20ingin%20bertanya..."
             className="inline-flex items-center gap-3 bg-primary text-on-primary px-10 py-4 rounded-xl font-label font-bold tracking-wide hover:bg-primary-container hover:text-on-primary-container transition-colors text-lg"
           >
             <span className="material-symbols-outlined">chat</span>

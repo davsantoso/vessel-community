@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { Instagram } from 'react-feather'
 
 export default function Footer() {
   return (
@@ -65,13 +66,24 @@ export default function Footer() {
             Ingin bergabung atau menjadi bagian dari tim pelayanan? Hubungi kami
             melalui WhatsApp.
           </p>
-          <a
-            href="#"
-            className="inline-flex items-center gap-2 bg-primary text-on-primary px-6 py-3 rounded-xl font-label text-sm hover:bg-primary-container hover:text-on-primary-container transition-colors"
-          >
-            <span className="material-symbols-outlined text-sm">chat</span>
-            Chat via WhatsApp
-          </a>
+          <div className="flex items-center gap-3">
+            <a
+              href="https://wa.me/6282335642114?text=Halo%20Vessel%20Community%2C%20saya%20ingin%20bertanya..."
+              className="inline-flex items-center gap-2 bg-primary text-on-primary px-6 py-3 rounded-xl font-label text-sm hover:bg-primary-container hover:text-on-primary-container transition-colors"
+            >
+              <span className="material-symbols-outlined text-sm">chat</span>
+              Chat via WhatsApp
+            </a>
+            <a
+              href="https://www.instagram.com/vessel.comm"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="p-3 rounded-xl border border-outline-variant text-secondary hover:text-primary hover:border-primary transition-colors"
+              aria-label="Instagram Vessel Community"
+            >
+              <Instagram size={18} />
+            </a>
+          </div>
         </div>
       </div>
 

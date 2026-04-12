@@ -111,7 +111,7 @@ export default function KomunitasPage() {
             mendapatkan informasi terbaru tentang ibadah, kegiatan, dan pengumuman.
           </p>
           <a
-            href="#"
+            href="https://wa.me/6282335642114?text=Halo%20Vessel%20Community%2C%20saya%20ingin%20bertanya..."
             className="inline-flex items-center gap-3 bg-primary text-on-primary px-10 py-4 rounded-xl font-label font-bold tracking-wide hover:bg-primary-container hover:text-on-primary-container transition-colors text-lg"
           >
             <span className="material-symbols-outlined">chat</span>

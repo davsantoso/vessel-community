@@ -202,7 +202,7 @@ export default function TentangKamiPage() {
         </h3>
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
           <a
-            href="#"
+            href="https://wa.me/6282335642114?text=Halo%20Vessel%20Community%2C%20saya%20ingin%20bertanya..."
             className="w-full sm:w-auto bg-primary text-surface px-10 py-4 rounded-full font-body font-semibold hover:shadow-lg transition-all text-center"
           >
             Hubungi Kami via WhatsApp

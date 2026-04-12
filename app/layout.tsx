@@ -23,6 +23,30 @@ export const metadata: Metadata = {
   title: 'Vessel Community',
   description:
     'Vessel Community — komunitas gereja pemuda GSRI Jemaat Bekasi. Ibadah setiap Sabtu, 17:00 WIB.',
+  openGraph: {
+    title: 'Vessel Community',
+    description:
+      'Vessel Community — komunitas gereja pemuda GSRI Jemaat Bekasi. Ibadah setiap Sabtu, 17:00 WIB.',
+    url: 'https://vessel-community.vercel.app',
+    siteName: 'Vessel Community',
+    images: [
+      {
+        url: 'https://res.cloudinary.com/drxqokest/image/upload/v1775743502/29-03-2026_1_xp1ufm.png',
+        width: 1200,
+        height: 630,
+        alt: 'Vessel Community — Ibadah bersama',
+      },
+    ],
+    locale: 'id_ID',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Vessel Community',
+    description:
+      'Vessel Community — komunitas gereja pemuda GSRI Jemaat Bekasi. Ibadah setiap Sabtu, 17:00 WIB.',
+    images: ['https://res.cloudinary.com/drxqokest/image/upload/v1775743502/29-03-2026_1_xp1ufm.png'],
+  },
 }
 
 export default function RootLayout({

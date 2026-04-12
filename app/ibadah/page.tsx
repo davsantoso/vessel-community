@@ -110,7 +110,7 @@ export default function IbadahPage() {
                 Petunjuk Arah
               </a>
               <a
-                href="#"
+                href="https://wa.me/6282335642114?text=Halo%20Vessel%20Community%2C%20saya%20ingin%20bertanya..."
                 className="bg-surface-container-highest text-primary px-6 py-3 rounded-xl hover:bg-white transition-colors font-label text-sm flex items-center gap-2"
               >
                 <span className="material-symbols-outlined text-sm">chat</span>
