@@ -4,7 +4,7 @@ import Image from 'next/image'
 export const metadata: Metadata = {
   title: 'Galeri Momen | Vessel Community',
   description:
-    'Koleksi foto kegiatan Vessel Community — ibadah, Paskah, badminton, dan momen kebersamaan lainnya.',
+    'Koleksi foto kegiatan Vessel Community — ibadah, Paskah, badminton, Vessel Camp, dan momen kebersamaan lainnya.',
 }
 
 const groups = [

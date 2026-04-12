@@ -90,7 +90,7 @@ export default function Footer() {
       {/* Bottom bar */}
       <div className="px-6 md:px-12 py-6 border-t border-primary/5 max-w-screen-2xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
         <span className="text-secondary font-label text-xs">
-          © 2026 Vessel Community · GSRI Jemaat Bekasi
+          © {new Date().getFullYear()} Vessel Community · GSRI Jemaat Bekasi
         </span>
         <span className="text-secondary/50 font-label text-xs">
           A Modern Sanctuary for the Intentional Soul.
